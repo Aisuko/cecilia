@@ -6,6 +6,7 @@ Visualization embeddings are crucial for understanding and interpreting high-dim
 
 Kaggle Datasets URL
 * [RMIT 2024 Postgraduate Study Areas](https://www.kaggle.com/datasets/aisuko/rmit-2024-postgraduate-study-areas)
+* [RMIT 2024 Programs](https://www.kaggle.com/datasets/aisuko/rmit-2024-programs)
 
 Our Mission
 Our mission is to make RAG accessible and beneficial for everyone. By providing an open-source framework and data analysis tools, we aim to empower developers and businesses to:
